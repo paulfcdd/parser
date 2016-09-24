@@ -1,0 +1,9 @@
+/vendor
+.gitignore
+.idea/copyright/
+.idea/modules.xml
+.idea/parser.iml
+.idea/workspace.xml
+composer-setup.php
+composer.lock
+composer.phar
