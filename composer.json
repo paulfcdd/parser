@@ -1,8 +1,11 @@
 {
+	"name": "paulfcdd/parser",
+	"description": "parser for sites",
     "require":{
 	    "silex/silex": "~2.0",
 		"symfony/twig-bridge": "3.1.*",
 		"twig/twig": "1.*.*",
-		"twbs/bootstrap":"v4.0.0-alpha.4"
+		"twbs/bootstrap":"v4.0.0-alpha.4",
+		"simple-html-dom/simple-html-dom": "1.5.0"
 	}
 }
